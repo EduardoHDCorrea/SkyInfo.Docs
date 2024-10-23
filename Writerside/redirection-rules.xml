@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="430653f4">
+        <description>Created after removal of "Back-end" from Sky Sistemas</description>
+        <accepts>Back-end.html</accepts>
+    </rule>
+    <rule id="2b30531b">
+        <description>Created after removal of "Front-end" from Sky Sistemas</description>
+        <accepts>Front-end.html</accepts>
+    </rule>
+    <rule id="6a3948a4">
+        <description>Created after removal of "Introdução" from Sky Sistemas</description>
+        <accepts>Introdução.html</accepts>
+    </rule>
+    <rule id="5735e5bf">
+        <description>Created after removal of "Referencial Técnico" from Sky Sistemas</description>
+        <accepts>referencial-técnico.html</accepts>
+    </rule>
+    <rule id="66bca3a1">
+        <description>Created after removal of "Front-end" from Sky Sistemas</description>
+        <accepts>Front-end.html</accepts>
+    </rule>
+    <rule id="dbbc7f2">
+        <description>Created after removal of "Back-end" from Sky Sistemas</description>
+        <accepts>Back-end.html</accepts>
+    </rule>
+    <rule id="501b630b">
+        <description>Created after removal of "Guias" from Sky Sistemas</description>
+        <accepts>Guias.html</accepts>
+    </rule>
+</rules>

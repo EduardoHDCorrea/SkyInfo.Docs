@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="sky-sistemas"
+                 name="Sky Sistemas"
+                 start-page="Geral.md">
+
+    <toc-element topic="Geral.md"/>
+    <toc-element topic="Guias.md">
+        <toc-element topic="Back-end.md">
+            <toc-element topic="Como-inicializar-e-utilizar-um-banco-de-dados-MySql.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Documentações-Técnicas.md"/>
+</instance-profile>

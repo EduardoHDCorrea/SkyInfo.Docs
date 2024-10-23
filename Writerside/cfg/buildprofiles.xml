@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <primary-color>frozen</primary-color>
+        <header-logo>https://files.inkrnl.com/sky-logo-64.png</header-logo>
+        <custom-favicons>https://files.inkrnl.com/sky-logo-64.png</custom-favicons>
+        <locale-code>pt-BR</locale-code>
+    </variables>
+    <build-profile instance="sky-sistemas">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+
+</buildprofiles>

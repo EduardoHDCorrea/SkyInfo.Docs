@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <secondary-label id="backend" name="Back-end" color="red"></secondary-label>
+    <secondary-label id="guia" name="Guia" color="blue"></secondary-label>
+    <secondary-label id="referencial-técnico" name="Técnico"></secondary-label>
+</labels>
