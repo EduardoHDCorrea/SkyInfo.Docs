@@ -9,9 +9,9 @@
         <custom-favicons>https://files.inkrnl.com/sky-logo-64.png</custom-favicons>
         <locale-code>pt-BR</locale-code>
     </variables>
-    <build-profile instance="sky-sistemas">
+    <build-profile instance="skyinfo">
         <variables>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
 

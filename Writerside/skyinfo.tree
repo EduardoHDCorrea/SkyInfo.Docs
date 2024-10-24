@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="sky-sistemas"
-                 name="Sky Sistemas"
+<instance-profile id="skyinfo"
+                 name="Documentação"
                  start-page="Geral.topic">
 
     <toc-element topic="Geral.topic"/>
