@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="skyinfo"
-                 name="Documentação"
+                 name="Sky Sistemas - Documentação Interna"
                  start-page="Geral.topic">
 
     <toc-element topic="Geral.topic"/>

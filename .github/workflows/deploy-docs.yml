@@ -7,7 +7,7 @@ on:
 
 env:
   INSTANCE: 'Writerside/skyinfo'
-  ARTIFACT: 'webDocumentaçãoSKYINFO2-all.zip'
+  ARTIFACT: 'webHelpSKYINFO2-all.zip'
   DOCKER_VERSION: '242.21870'
 
 jobs:
