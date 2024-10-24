@@ -1,3 +1,0 @@
-# Geral
-
-Start typing here...

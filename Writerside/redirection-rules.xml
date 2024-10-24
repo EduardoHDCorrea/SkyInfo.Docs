@@ -34,4 +34,8 @@
         <description>Created after removal of "Guias" from Sky Sistemas</description>
         <accepts>Guias.html</accepts>
     </rule>
+    <rule id="74600e10">
+        <description>Created after removal of "ISSQN" from Sky Sistemas</description>
+        <accepts>ISSQN.html</accepts>
+    </rule>
 </rules>

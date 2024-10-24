@@ -1,3 +1,0 @@
-# Guias
-
-Start typing here...

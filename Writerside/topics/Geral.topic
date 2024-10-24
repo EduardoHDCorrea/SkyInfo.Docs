@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Geral" title="Geral">
+
+    <title>
+        Geral
+    </title>
+    <section-starting-page>
+        <title>Documentação Interna do Sky Sistemas</title>
+        <description>
+            Documentação interna do Sky Sistemas para auxiliar no desenvolvimento de projetos e na utilização de ferramentas.
+        </description>
+
+        <spotlight>
+            <a href="emissao-de-issqn-para-prefeitura.md"
+               type="development"
+            />
+            <a href="como-inicializar-e-utilizar-um-banco-de-dados-mysql.md"
+               type="learn"
+            />
+        </spotlight>
+
+        <primary>
+            <title>Documentações Técnicas</title>
+            <a href="emissao-de-issqn-para-prefeitura.md"/>
+        </primary>
+
+        <secondary>
+            <title>Guias</title>
+            <a href="como-inicializar-e-utilizar-um-banco-de-dados-mysql.md"/>
+        </secondary>
+
+        <misc>
+            <cards>
+                <title>Discussões</title>
+                <a href="duvidas-tecnicas-sobre-o-projeto-de-declaracao-do-issqn.md"/>
+            </cards>
+        </misc>
+    </section-starting-page>
+
+</topic>

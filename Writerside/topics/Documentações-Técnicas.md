@@ -1,3 +1,0 @@
-# Documentações Técnicas
-
-Start typing here...
