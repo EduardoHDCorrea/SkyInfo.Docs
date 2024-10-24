@@ -2,6 +2,7 @@ name: Fazer build, teste, e deploy da documentação no GitHub Pages
 permissions:
   id-token: write
   contents: read
+  pages: write
 on:
   push:
     branches: ["main"]
