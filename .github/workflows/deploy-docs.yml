@@ -2,7 +2,7 @@ name: Fazer build, teste, e deploy da documentação no GitHub Pages
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
   workflow_dispatch:
 
 env:
