@@ -33,20 +33,19 @@ jobs:
           path: |
             artifacts/${{ env.ARTIFACT }}
           retention-days: 7
-#  test:
-#    needs: build
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Baixar os artefatos
-#        uses: actions/download-artifact@v4
-#        with:
-#          name: docs
-#          path: artifacts
-#
-#      - name: Testar a documentação
-#        uses: JetBrains/writerside-checker-action@v1
-#        with:
-#          instance: ${{ env.INSTANCE }}
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar os artefatos
+        uses: actions/download-artifact@v4
+        with:
+          name: docs
+
+      - name: Testar a documentação
+        uses: JetBrains/writerside-checker-action@v1
+        with:
+          instance: ${{ env.INSTANCE }}
   deploy:
     environment:
       name: github-pages
