@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'Writerside/sky-sistemas'
+  INSTANCE: 'Writerside/skyinfo'
   ARTIFACT: 'webDocumentaçãoSKYINFO2-all.zip'
   DOCKER_VERSION: '242.21870'
 
@@ -33,6 +33,7 @@ jobs:
           path: |
             artifacts/${{ env.ARTIFACT }}
           retention-days: 7
+
   test:
     needs: build
     runs-on: ubuntu-latest
@@ -47,6 +48,7 @@ jobs:
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ env.INSTANCE }}
+
   deploy:
     environment:
       name: github-pages
