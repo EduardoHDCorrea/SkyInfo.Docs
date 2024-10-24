@@ -50,7 +50,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: [ build ]
+    needs: [ build, test ]
     runs-on: ubuntu-latest
     steps:
       - name: Baixar os artefatos
