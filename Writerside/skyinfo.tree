@@ -17,6 +17,11 @@
         </toc-element>
     </toc-element>
     <toc-element toc-title="Discussões">
-        <toc-element topic="duvidas-tecnicas-sobre-o-projeto-de-declaracao-do-issqn.md"/>
+        <toc-element toc-title="Sprint 22-2024">
+            <toc-element topic="Planejamento-técnico-para-projeto-de-emissão-de-NFSe.md">
+                <toc-element topic="Estrutura-de-classes-do-projeto-de-emissão-de-NFSe.md"/>
+            </toc-element>
+            <toc-element topic="duvidas-tecnicas-sobre-o-projeto-de-declaracao-do-issqn.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>

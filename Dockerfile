@@ -14,7 +14,7 @@ Xvfb :99 & \
 
 WORKDIR /opt/wrs-output
 
-RUN unzip -O UTF-8 webDocumentaçãoSKYINFO2-all.zip -d /opt/wrs-output/unzipped-artifact
+RUN unzip -O UTF-8 webHelpSKYINFO2-all.zip -d /opt/wrs-output/unzipped-artifact
 
 FROM httpd:2.4 as http-server
 

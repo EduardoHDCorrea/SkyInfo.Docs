@@ -7,4 +7,6 @@
     <secondary-label id="referencial-técnico" name="Técnico" color="tangerine"/>
     <secondary-label id="análise" name="Análise" color="purple"/>
     <secondary-label id="discussão" name="Discussão" color="strawberry"/>
+    <secondary-label id="ipm" name="IPM" color="tangerine"/>
+    <secondary-label id="obrigatório" name="Obrigatório" color="red"/>
 </labels>

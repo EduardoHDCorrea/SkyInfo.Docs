@@ -7,7 +7,7 @@ Projeto criado para testar a utilização da biblioteca ACBrLib, que é uma bibl
 
 ### Justificativa
 
-Foi levantada a necessidade de emitir notas fiscais para a prefeitura de **Gramado**, portanto se decidiu desenvolver uma solução que possibilite a prestação de contas para diminuir o custo de implementação para qualquer cliente que surgir com a mesma necessidade.
+Foi levantada a necessidade de emitir notas fiscais à prefeitura de **Gramado**, portanto se decidiu desenvolver uma solução que possibilite a prestação de contas para diminuir o custo de implementação para qualquer cliente que surgir com a mesma necessidade.
 
 Após falhas na utilização da biblioteca da `Tecnospeed`, e `OpenAC.NET`, foi decidido testar a utilização da biblioteca da `ACBr`.
 
@@ -38,7 +38,7 @@ A ACBrLib necessita que os seguintes estejam instalados para funcionar corretame
   ttf-mscorefonts-installer
 ```
 
-O comando de exemplo disponibilizado pela ACBrLib é o seguinte:
+O comando disponibilizado pela ACBrLib é o seguinte:
 ```bash
   sudo apt-get install -y --no-install-recommends \
   
